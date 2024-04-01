@@ -1,11 +1,11 @@
 <h2 align="left">Hi 👋! My name is Amani YAHIA BEY and I'm a Computer Science student... </h2>
 This is the place where I opensource stuff and break things 🤣
 
-🔭  I’m currently working on something cool 😉
-🌱  I’m currently learning Frameworks
-💬  Ask me about anything related to Javascript/Python or Vue.js/React/HTML/CSS/PHP
-👨‍💻  Read more about my projects at Portfolio-Amani
-⚡  Fun fact: I ❤️ 🐶s and Xbox Gaming 
+🔭  I’m currently working on something cool 😉</br>
+🌱  I’m currently learning Frameworks </br>
+💬  Ask me about anything related to Javascript/Python or Vue.js/React/HTML/CSS/PHP </br>
+👨‍💻  Read more about my projects at Portfolio-Amani </br>
+⚡  Fun fact: I ❤️ 🐶s and Xbox Gaming </br>
 
 ###
 
