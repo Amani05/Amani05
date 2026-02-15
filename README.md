@@ -2,8 +2,8 @@
 This is the place where I opensource stuff and break things 🤣
 
 🔭  I’m currently working on something cool 😉</br>
-🌱  I’m currently learning Frameworks </br>
-💬  Ask me about anything related to Javascript/Python or Vue.js/React/HTML/CSS/PHP </br>
+🌱  I’m currently learning Anomaly Detection  </br>
+💬  Ask me about anything related to Data Analyst, Python, Data Visualization ,Programming </br>
 👨‍💻  Read more about my projects at Portfolio-Amani </br>
 ⚡  Fun fact: I ❤️ 🐶s and Xbox Gaming </br>
 
